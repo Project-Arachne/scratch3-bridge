@@ -1,3 +1,5 @@
+This repository is no longer in use for Project Arachne, and will not recieve updates.
+
 # scratch3-bridge
 Javascript library to exchange data with Scratch 3 online projects using cloud variables
 
